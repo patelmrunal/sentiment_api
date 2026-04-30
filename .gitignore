@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+saved/model.pt
+saved/vocab.pkl
+data/raw/
+notebooks/.ipynb_checkpoints/
