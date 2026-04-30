@@ -28,3 +28,5 @@ Show the JSON input and output.
 Write 3-4 honest sentences about what clicked for you.
 
 Download IMDB Dataset from Kaggle and place it at data/raw/IMDB Dataset.csv
+
+🚀 Live Demo: https://sentimentapi.streamlit.app
