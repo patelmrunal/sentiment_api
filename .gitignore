@@ -1,6 +1,4 @@
 .venv/
 __pycache__/
 *.pyc
-saved/model.pt
-saved/vocab.pkl
 notebooks/.ipynb_checkpoints/

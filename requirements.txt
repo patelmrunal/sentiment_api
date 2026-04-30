@@ -1,0 +1,6 @@
+torch
+streamlit
+fastapi
+uvicorn
+pandas
+scikit-learn
